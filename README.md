@@ -9,7 +9,7 @@
 ### initial.R: 初步解释性分析，插补数据并整合变量，基准回归
 这一步处理前后的数据：df_initial.dta -> df_probit
 ### stability.R: 稳健性与机制检验
-### heterogenity.R: 异质性与中介效应分析（后删去）
+### heterogeneity.R: 异质性与中介效应分析（后删去）
 ### endogeneity.R: 内生性处理
 ## 其他说明
 ### 这里仅核心代码和核心数据集，数据预处理、结果整合部分代码为显示重点省略
